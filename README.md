@@ -17,19 +17,24 @@ f = g + h
 Installation is pretty staright forward. Follow the instructions below:
 
 ```bash
-  git https://github.com/nooh007/8_star_puzzle_solver.git
+  git clone https://github.com/nooh007/8_star_puzzle_solver.git
   cd 8_star_puzzle_solver
 ```
+
+under the repo, there are two more directories:
+ - greedy search code
+ - A* search implementation
+
+ Please cd to the relevant directory to run the code and under the repository run the main file in code blocks after configuring
+ everything.
+
+
 It will work with any C++ IDE/compiler. However, I would recommend running
 it in code blocks. Install the compiler if you have not by following the instructions on the internet. 
 
 After installing [compiler](https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html) and [VS code](https://code.visualstudio.com/)
-run the following command to run the algorithm.
-```bash
-g++ main.cpp -o main
-./main.exe
-```
-The result will be written to an output .txt file.
+
+open the folder through code blocks and run the main file in the given folder. 
 
 
 ## Note
