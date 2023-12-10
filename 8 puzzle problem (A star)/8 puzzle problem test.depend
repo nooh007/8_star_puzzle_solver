@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702125689 source:c:\users\user\desktop\c++ programming\c++ programs\8 puzzle problem test\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<queue>
+
+1702131294 source:c:\users\user\desktop\c++ programming\c++ programs\8 puzzle problem (a star)\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<queue>
+

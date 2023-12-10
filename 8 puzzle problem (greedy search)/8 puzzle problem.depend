@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702127483 source:c:\users\user\desktop\c++ programming\c++ programs\8 puzzle problem (faizan code)\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<queue>
+
+1702131127 source:c:\users\user\desktop\c++ programming\c++ programs\8 puzzle problem (greedy search)\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<queue>
+
