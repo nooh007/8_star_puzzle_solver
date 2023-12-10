@@ -32,7 +32,6 @@ under the repo, there are two more directories:
 It will work with any C++ IDE/compiler. However, I would recommend running
 it in code blocks. Install the compiler if you have not by following the instructions on the internet. 
 
-After installing [compiler](https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html) and [VS code](https://code.visualstudio.com/)
 
 open the folder through code blocks and run the main file in the given folder. 
 
