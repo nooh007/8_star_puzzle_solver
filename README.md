@@ -37,8 +37,7 @@ open the folder through code blocks and run the main file in the given folder.
 
 
 ## Note
-Some intiale state don't converge to the goal state. It is important to check it before
-running the algorithm. In this repository, it is implemented in the node class.
+Some intiale state don't converge to the goal state. In that case the program will be unable to solve the puzzle and will output "puzzle not solved". 
 In order to understand why some states converge and other don't. Please read [this](https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/) nice explanation.
 
 Please star the repository, if you use it in your projects or for learning purposes.
